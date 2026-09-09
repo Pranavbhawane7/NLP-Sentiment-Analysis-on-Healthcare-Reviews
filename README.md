@@ -1,6 +1,9 @@
 NLP Sentiment Analysis on Healthcare Reviews
 📌 Objective
+
+
 The goal of this project is to develop a model that can classify sentiments in healthcare reviews. This involves analyzing text data from healthcare reviews and determining whether the sentiment expressed in each review is positive, negative, or neutral.
+
 
 🛠️ Tasks
 Data Preprocessing: Cleaning and preparing text data (tokenization, stopword removal, handling missing values).
@@ -11,12 +14,16 @@ Model Evaluation: Compared performance using metrics like accuracy, precision, r
 
 Insights & Visualization: Generated insights from the sentiment analysis results and visualized findings.
 
+
+
 ⚙️ Models Used
 KNN Classifier
 
 Logistic Regression
 
 Random Forest
+
+
 
 📊 Insights from the Analysis
 Positive Reviews
