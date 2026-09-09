@@ -1,4 +1,6 @@
 NLP Sentiment Analysis on Healthcare Reviews
+
+
 📌 Objective
 
 
@@ -17,6 +19,8 @@ Insights & Visualization: Generated insights from the sentiment analysis results
 
 
 ⚙️ Models Used
+
+
 KNN Classifier
 
 Logistic Regression
@@ -26,7 +30,10 @@ Random Forest
 
 
 📊 Insights from the Analysis
+
 Positive Reviews
+
+
 Experience → 209 mentions
 
 Service → 139 mentions
@@ -38,6 +45,8 @@ Healthcare provider → 86 mentions
 “Coming back” → 50 mentions
 
 Negative Reviews
+
+
 Experience → 186 mentions
 
 Service → 131 mentions
@@ -51,6 +60,8 @@ Healthcare provider → 73 mentions
 “Experience terrible” → 36 mentions
 
 Neutral Reviews
+
+
 Experience → 87 mentions
 
 “Terrible would” → 20 mentions
@@ -62,6 +73,8 @@ Experience → 87 mentions
 “Bad experience” → 15 mentions
 
 📝 Final Thoughts
+
+
 The dataset has only 9 statements in the Review Text column, segmented into all 3 classes (positive, negative, neutral).
 
 Because it’s a toy dataset, the model does not perform well and insights are limited.
@@ -77,6 +90,8 @@ A portion of patients had terrible experiences and expressed dissatisfaction.
 A few reviews reflect mixed emotions about the healthcare center.
 
 🌟 Key Learnings
+
+
 Importance of dataset size and quality in NLP projects.
 
 How misclassification can occur when training data is insufficient.
